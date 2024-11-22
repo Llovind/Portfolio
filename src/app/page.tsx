@@ -39,7 +39,7 @@ export default function About() {
             Student at the Faculty of Electrical Engineering, majoring in Telecommunication Engineering at Telkom University. 
             I have the ambition and interest to work in the telecommunications sector. I aim to make a meaningful contribution and progress to the team.
           </p>
-          <Link href="https://drive.google.com/file/d/1HKPPbJw2K6wwSlLdHG5mbZvpvmeDfZRq/view?usp=drive_link">
+          <Link href="https://drive.google.com/file/d/1I49u3_vOdjHQ8PphnjAmJH6REDdbVY_s/view?usp=sharing">
             <Button className="text-lg mt-4" variant="outline">Download My CV</Button>
           </Link>
         </div>
